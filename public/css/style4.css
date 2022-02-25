@@ -1,0 +1,13 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #FFA07A;
+    color: white;
+    height: 100px;
+}

@@ -1,0 +1,41 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+h1{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #FFA07A;
+    color: white;
+    height: 100px;
+
+}
+
+.tombol{
+    background-color: #FFA07A;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+#kembali{
+    color: #8B4513;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    background-color: #FAEBD7;
+    border-radius: 10px;
+    width: 210px;
+    height: 35px;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+#kembali:hover{
+    color: #FDF5E6;
+    background-color: #DB7093;
+}
